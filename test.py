@@ -1,6 +1,7 @@
 
 def main():
-    asd = []
+    asd = [2,3]
+    asd.append(1)
     asd.append(1)
     asd.append(1)
     asd.append(1)
